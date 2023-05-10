@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Roronoawjd/movie_app_2023/static/css/main.e9c503f0.css",
+    "main.js": "/Roronoawjd/movie_app_2023/static/js/main.8817fc02.js",
+    "index.html": "/Roronoawjd/movie_app_2023/index.html",
+    "main.e9c503f0.css.map": "/Roronoawjd/movie_app_2023/static/css/main.e9c503f0.css.map",
+    "main.8817fc02.js.map": "/Roronoawjd/movie_app_2023/static/js/main.8817fc02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c503f0.css",
+    "static/js/main.8817fc02.js"
+  ]
+}
